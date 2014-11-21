@@ -1,9 +1,8 @@
-is
+Is
 ==
 
 Practicas
 
-Este repositorio va a guardar el codigo que desarrollemos
-
 
 Control de Versiones.
+Carpeta dentro carpeta
